@@ -1,0 +1,1 @@
+# DjangoPAME2019.2
